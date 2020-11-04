@@ -7,4 +7,4 @@ paras.forEach(para => {
     if(para.innerText.includes('success')){
         para.classList.add('success');
     }
-})
+});
